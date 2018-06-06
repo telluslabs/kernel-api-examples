@@ -1,2 +1,3 @@
-# kernel-api-examples
-Example scripts to use with the Kernel API
+# Kernel API Example Scripts
+
+This repo contains example scripts that can be used to access data via the Kernel API.
